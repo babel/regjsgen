@@ -1,6 +1,7 @@
 # regjsgen [![Build status][ci-img]][ci] [![Code coverage status][codecov-img]][codecov]
 
 > This is a fork of [bnjmnt4n/regjsgen](https://github.com/bnjmnt4n/regjsgen) with some additional patches. The end goal is to merge these patches upstream.
+> - [be866435](https://github.com/babel/regjsgen/commit/be86643508658c70ccb5bec8bc4e3dc2479cac62) _feat: support modifiers proposal_ ([bnjmnt4n/regjsgen#28](https://github.com/bnjmnt4n/regjsgen/pull/28))
 
 Generate regular expressions from [regjsparser][regjsparser]’s AST.
 
