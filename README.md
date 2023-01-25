@@ -1,5 +1,7 @@
 # regjsgen [![Build status][ci-img]][ci] [![Code coverage status][codecov-img]][codecov]
 
+> This is a fork of [bnjmnt4n/regjsgen](https://github.com/bnjmnt4n/regjsgen) with some additional patches. The end goal is to merge these patches upstream.
+
 Generate regular expressions from [regjsparser][regjsparser]’s AST.
 
 ## Installation
